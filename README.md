@@ -1,4 +1,4 @@
-# HATE SPEECH DETECTION
+# Hate Speech Detection
 Hate speech on digital platforms promotes harm, division, and mental distress. It appears in various forms like text, speech, and videos, often evolving to evade detection. This challenge calls for advanced tools to detect and manage hate speech across formats, aiming to create a safer online space while minimizing false positives and preserving free expression.
 
 # Introduction
@@ -11,3 +11,4 @@ Dataset is having a column named “Content” and a column named “Label” wh
 - Type of data : Text
 - Language : English
 - Contains 726119 unique rows
+
